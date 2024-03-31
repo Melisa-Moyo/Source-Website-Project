@@ -1,6 +1,6 @@
 body{
     background-color: #F5F9FC !important;
-    
+    overflow-x: hidden !important;
 }
 
 .navbar {
@@ -77,19 +77,19 @@ body{
     opacity: 0.5;
 }
 .main-text{
-    font-size: 60px;
+    font-size: 40px;
     font-weight: bold;
     color: #294054;
 }
 .main-text-input{
-    height: 6vh;
+    height: 7vh;
     border-radius: 5px; 
     background-color: #E2EAF0 !important;
     color: #a2b7ccc5 !important;
     font-size: 20px !important;
 }
 .btn-outline-secondary.custom-btn {
-    height: 6vh;
+    height: 7vh;
     border-radius: 1px;
     background-color: #2C4458;
     color: #ffffff;
@@ -98,13 +98,14 @@ body{
     font-size: 20px;
 }
 .paragraph-main-text{
-    font-size: 28px;
+    font-size: 20px;
+    margin-top: 10px;
 }
 
 .img-devices{
     width: 169%;
     margin-top: -110px;
-    margin-left: -264px;
+    margin-left: -164px;
     height: 80vh;
 
 }
@@ -164,7 +165,7 @@ body{
     font-size: 40px;
     color: #2C4458;
     margin-bottom: 30px;
-    margin-left: -390px;
+    margin-left: -300px;
 }
 .first-block h2{
 font-size: 40px;
@@ -191,7 +192,7 @@ text-align: left;
     font-size: 40px;
     color: #2C4458;
     margin-bottom: 30px;
-    margin-left: -390px;
+    margin-left: -300px;
 }
 .second-block h2{
 font-size: 40px;
@@ -218,7 +219,7 @@ text-align: left;
     font-size: 40px;
     color: #2C4458;
     margin-bottom: 30px;
-    margin-left: -390px;
+    margin-left: -300px;
 }
 .third-block h2{
 font-size: 40px;
@@ -246,7 +247,7 @@ text-align: left;
     font-size: 40px;
     color: #2C4458;
     margin-bottom: 30px;
-    margin-left: -390px;
+    margin-left: -300px;
 }
 .fourth-block h2{
 font-size: 40px;
